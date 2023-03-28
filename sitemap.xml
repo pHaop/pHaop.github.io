@@ -3,20 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://phaop.github.io/demo-hugo-theme-moments/</loc>
-    <lastmod>2021-08-01T11:33:28+08:00</lastmod>
+    <lastmod>2023-03-28T16:17:04+08:00</lastmod>
   </url><url>
-    <loc>https://phaop.github.io/demo-hugo-theme-moments/post/my-first-post/</loc>
-    <lastmod>2021-08-01T11:33:28+08:00</lastmod>
+    <loc>https://phaop.github.io/demo-hugo-theme-moments/moments/%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A1%A8%E8%BE%BE%E7%9A%84%E5%BC%80%E5%A7%8B/</loc>
+    <lastmod>2023-03-28T16:17:04+08:00</lastmod>
   </url><url>
-    <loc>https://phaop.github.io/demo-hugo-theme-moments/tags/default/</loc>
-    <lastmod>2021-08-01T11:33:28+08:00</lastmod>
-  </url><url>
-    <loc>https://phaop.github.io/demo-hugo-theme-moments/post/</loc>
-    <lastmod>2021-08-01T11:33:28+08:00</lastmod>
-  </url><url>
-    <loc>https://phaop.github.io/demo-hugo-theme-moments/tags/</loc>
-    <lastmod>2021-08-01T11:33:28+08:00</lastmod>
+    <loc>https://phaop.github.io/demo-hugo-theme-moments/moments/</loc>
+    <lastmod>2023-03-28T16:17:04+08:00</lastmod>
   </url><url>
     <loc>https://phaop.github.io/demo-hugo-theme-moments/categories/</loc>
+  </url><url>
+    <loc>https://phaop.github.io/demo-hugo-theme-moments/tags/</loc>
   </url>
 </urlset>
